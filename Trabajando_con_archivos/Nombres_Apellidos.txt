@@ -1,0 +1,10 @@
+Los datos son: 
+Nombre: Lucas
+ Apellido: Dalto
+ Nombre: Alexander
+ Apellido: Garcia
+ Nombre: Jorge
+ Apellido: Montolla
+ Nombre: Arturo
+ Apellido: Caceres
+ 

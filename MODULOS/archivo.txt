@@ -1,0 +1,13 @@
+Un modulo es cualquier archivo .py  
+
+
+SE LE DICE MODULOS PORQUE DESDE MODULOOS PDEMOS LLAMAR A OTROS, SI SE CREA UN MODULO CON MUCHAS FUNCIONES, PODEMOS TENTRAR AL MODULO Y LLAMARLO
+
+
+desde un modulo nuevo puedo usar las funciones que cree, asi se separa el programa en partes. 
+
+tenmemos Python Modulos en lenguaje c, estas escritos en este lenjuage. 
+
+luego tenemos modulos de tercero. 
+
+Por ultimo tenemos los modulos propios, modulos creados por nosotros. 

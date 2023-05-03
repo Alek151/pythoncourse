@@ -1,0 +1,15 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+df = pd.read_csv("cofla_ingresos.csv")
+print(df)
+
+#creando el gráfico
+sns.barplot(x="fuente", y="ingresos", data=df)
+
+#total de ingresos
+total_ingresos = df["ingresos"].sum()
+print(f"El total de ingresos es de: {total_ingresos}")
+
+plt.show()
